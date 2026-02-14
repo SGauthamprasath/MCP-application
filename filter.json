@@ -1,0 +1,43 @@
+{
+    "status": "success",
+    "data": {
+        "rows_found": 152,
+        "preview": [
+            {
+                "Date": "1/5/2024",
+                "Category": "Food",
+                "Amount": 13249,
+                "Payment_Mode": "Cash",
+                "Month": "December"
+            },
+            {
+                "Date": "1/10/2024",
+                "Category": "Food",
+                "Amount": 2765,
+                "Payment_Mode": "Online",
+                "Month": "July"
+            },
+            {
+                "Date": "1/15/2024",
+                "Category": "Food",
+                "Amount": 9539,
+                "Payment_Mode": "Cash",
+                "Month": "January"
+            },
+            {
+                "Date": "1/16/2024",
+                "Category": "Food",
+                "Amount": 12975,
+                "Payment_Mode": "Card",
+                "Month": "April"
+            },
+            {
+                "Date": "1/27/2024",
+                "Category": "Food",
+                "Amount": 1660,
+                "Payment_Mode": "Online",
+                "Month": "November"
+            }
+        ]
+    }
+}

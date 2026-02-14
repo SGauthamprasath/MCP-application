@@ -1,0 +1,20 @@
+{
+    "status": "success",
+    "data": {
+        "rows": 1000,
+        "columns": [
+            "Date",
+            "Category",
+            "Amount",
+            "Payment_Mode",
+            "Month"
+        ],
+        "missing_values": {
+            "Date": 0,
+            "Category": 0,
+            "Amount": 0,
+            "Payment_Mode": 0,
+            "Month": 0
+        }
+    }
+}

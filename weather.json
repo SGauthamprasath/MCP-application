@@ -1,0 +1,9 @@
+{
+    "status": "success",
+    "data": {
+        "city": "Mumbai",
+        "temperature_celsius": 21.49,
+        "humidity": 57,
+        "condition": "Sunny"
+    }
+}
