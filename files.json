@@ -1,0 +1,9 @@
+{
+    "status": "success",
+    "data": {
+        "files": [
+            "note.txt",
+            "sample.csv"
+        ]
+    }
+}
