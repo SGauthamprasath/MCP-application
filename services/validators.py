@@ -2,7 +2,7 @@
 import os
 from .exceptions import ValidationError, FileAccessError
 
-BASE_DATA_PATH = os.path.abspath("data")
+BASE_DATA_PATH = "C:\\Users\\gauth\\yukta-2k26\\MCP-application\\data"
 
 
 def validate_city(city: str):

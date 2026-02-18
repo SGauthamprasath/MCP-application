@@ -1,5 +1,5 @@
 from database.models import init_db
-from services.db_service import insert_record, query_records, get_summary
+from database.db_service import insert_record, query_records, get_summary
 
 init_db()
 

@@ -2,8 +2,8 @@
     "status": "success",
     "data": {
         "city": "Mumbai",
-        "temperature_celsius": 21.49,
-        "humidity": 57,
+        "temperature_celsius": 31.78,
+        "humidity": 56,
         "condition": "Sunny"
     }
 }
